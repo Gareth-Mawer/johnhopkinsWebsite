@@ -1,0 +1,113 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #ccc;
+    font-family: 'Josefin Slab', serif;
+}
+
+/** HEADER **/
+
+#header-nav {
+    background-color: #222;
+    border-radius: 0;
+    border: 0;
+}
+
+#logo-img {
+    background: url('../img/OliveHiDPI.png');
+    width: 110px;
+    height:55px;
+    background-size: 110px 55px;
+    margin: 10px 15px 10px 0;
+}
+
+#nav-list {
+    color: #ccc;
+    text-align: center;
+   text-transform: uppercase;
+}
+
+#nav-list a:hover {
+    background: #7e3789;
+    color: #fff;
+}
+
+#nav-list a span {
+    font-size: 1.2em;
+}
+
+#nav-list a span.fa {
+    font-size: 1.4em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #808000;
+    vertical-align: center;
+}
+
+section.jumbotron {
+    background-color: #222;
+    text-align: center;
+}
+
+section.jumbotron h1, section.jumbotron h3 {
+    font-family: 'Cinzel', serif;
+}
+
+section.jumbotron p {
+    font-size:1.8em;
+}
+
+button.product-button {
+    background-color: #7e3789;
+    border: 0;
+    color:#fff;
+    padding: 10px 20px 10px 20px;
+}
+
+@media (min-width: 1200px) {
+    .jumbotron {
+        width: 1130px;
+        background-size: 1130px 550px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .jumbotron {
+        width: 930px;
+        background-size: 930px 450px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .jumbotron {
+        width: 700px;
+        background-size: 710px 350px;
+    }
+}
+
+@media (max-width: 767px) {
+    /* Header */
+    .navbar-header {
+        margin: 0 4px 0 4px;
+    }
+    
+    .navbar-header button {
+        margin-top: 10px;
+    }
+
+    #nav-list a span {
+        font-size: 0.8em;
+    }
+
+    #nav-list a span.fa {
+        font-size: 1em;
+    }
+
+    #nav-list a {
+        font-size: 1.4em;
+    }
+    section.jumbotron {
+        background-color: #222;
+    }
+}

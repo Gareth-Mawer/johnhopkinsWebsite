@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="137.67717"
+   height="72"
+   viewBox="0 0 137.67696 72.000001"
+   id="svg3574"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Olive Logo.svg">
+  <defs
+     id="defs3576" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.505"
+     inkscape:cx="206.55258"
+     inkscape:cy="595.1503"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1536"
+     inkscape:window-height="803"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3579">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-980.35674)">
+    <g
+       style="display:inline"
+       transform="translate(-0.51106028,0.23945949)"
+       id="g3525">
+      <ellipse
+         ry="26.408278"
+         rx="15.361679"
+         cy="1023.3405"
+         cx="20.28149"
+         style="fill:#808000;fill-opacity:1"
+         id="ellipse3527" />
+      <ellipse
+         ry="0.17260313"
+         rx="6.0411096"
+         cy="1034.873"
+         cx="22.792532"
+         style="fill:#808000;fill-opacity:1"
+         id="ellipse3529" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3531"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.12834167px;line-height:125%;font-family:Cambria;-inkscape-font-specification:Cambria;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(-2.2857143,-9.7142857)"><flowRegion
+           id="flowRegion3533"><rect
+             id="rect3535"
+             width="129.45232"
+             height="98.728966"
+             x="35.273575"
+             y="988.58527"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.12834167px;font-family:Cambria;-inkscape-font-specification:Cambria"
+             ry="6.5589185"
+             rx="0.34520626" /></flowRegion><flowPara
+           id="flowPara3537"
+           style="font-size:69.59358215px;fill:#808000">live</flowPara></flowRoot>      <g
+         id="g3539"
+         transform="matrix(0.9665775,0,0,0.9665775,-1.2697752,38.689611)">
+        <rect
+           transform="translate(0,973.36218)"
+           y="6.9193025"
+           x="21.61095"
+           height="11.402097"
+           width="2.7842329"
+           id="rect3541"
+           style="fill:#803300;fill-opacity:1;stroke:#803300" />
+        <rect
+           y="980.19312"
+           x="11.490485"
+           height="1.3258252"
+           width="12.904698"
+           id="rect3543"
+           style="fill:#803300;fill-opacity:1;stroke:#803300" />
+      </g>
+      <rect
+         style="fill:#803300;fill-opacity:1;stroke:#803300;stroke-width:0.96657747"
+         id="rect3545"
+         width="11.59893"
+         height="1.2082219"
+         x="10.054422"
+         y="987.6488" />
+      <rect
+         style="fill:#803300;fill-opacity:1;stroke:#803300;stroke-width:0.96657747"
+         id="rect3547"
+         width="1.3894552"
+         height="0.60411096"
+         x="9.8127775"
+         y="988.25293" />
+      <rect
+         style="fill:#803300;fill-opacity:1;stroke:#803300;stroke-width:0.96657747"
+         id="rect3549"
+         width="0.60411096"
+         height="0.36246657"
+         x="11.564699"
+         y="988.07172" />
+    </g>
+  </g>
+</svg>
